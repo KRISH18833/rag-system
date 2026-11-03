@@ -19,11 +19,11 @@ A retrieval-augmented generation system over Cloud Computing for ML course notes
 
 | File | Pages |
 |---|---|
-| Cloud Unit 1.pdf | — |
-| Cloud Unit 2.pdf | — |
-| Cloud Unit 3.pdf | — |
-| Cloud Unit 4.pdf | — |
-| Cloud Unit 5.pdf | — |
+| Cloud Unit 1.pdf | 20 |
+| Cloud Unit 2.pdf | 29 |
+| Cloud Unit 3.pdf | 23 |
+| Cloud Unit 4.pdf | 47 |
+| Cloud Unit 5.pdf | 16 |
 
 **Total:** 5 PDFs · 135 pages · 175 chunks
 
